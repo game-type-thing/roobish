@@ -1,0 +1,11 @@
+{
+  "name": "roobish",
+  "version": "0.0.0",
+  "description": "nostalgic, turn-based, strategy game-type-thing",
+  "author": "Grant Snodgrass <meeber@gametypething.com>",
+  "license": "AGPL-3.0",
+  "repository": "GameTypeThing/roobish",
+  "engines": {
+    "node": ">=6.0.0"
+  }
+}
