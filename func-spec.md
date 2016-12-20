@@ -58,7 +58,7 @@ Although there are multiple game modes planned that differ in terms of how many 
 
 ## Matches
 
-A match is a series of one or more battles. The exact number of battles depends on the game mode. You play against the same opponent for each battle, although many game modes involve changing monsters after each battle.
+A match is a series of one or more battles between the same two players. The exact number of battles depends on the game mode. Many game modes involve swapping monsters after each battle.
 
 The master with the highest cumulative match score after all battles are finished is declared the winner of the match. If both you and your opponent have the same match score, then the match ends in a tie. There's no tiebreaker, primarily because it'd take too long; it's a design goal for yolo matches to take a predictable amount of time to complete. Due to the way scoring works, ties will be a rare occurrence.
 
